@@ -24,6 +24,7 @@ if __name__ == "__main__":
     for file in dirs:
         file = args.folder_path + "/" + file
         file_names.append(file)
+        print(file)
 
     # shuffle file names if set
     if args.is_shuffled == 1:
@@ -39,8 +40,6 @@ if __name__ == "__main__":
     fo.close()
 
     # print process
-    for e in file_names:
-        print(e)
     print("Written file is: ", args.output_filename, ", is_shuffle: ", args.is_shuffled)
 
 
