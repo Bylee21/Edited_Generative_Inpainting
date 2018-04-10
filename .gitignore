@@ -1,3 +1,5 @@
 model_logs
 neuralgym_logs
-data
+data_flist
+test_dir
+training_data
