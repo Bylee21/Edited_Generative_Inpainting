@@ -54,8 +54,8 @@ DATA_FLIST:
   ]
   # raindrops
   GOPR47: [
-    'data_flist/raindrops/train_shuffled.flist',
-    'data_flist/raindrops/validation_shuffled.flist',
+    'data_flist/GOPR47/train_shuffled.flist',
+    'data_flist/GOPR47/validation_shuffled.flist',
   ]
 
 STATIC_VIEW_SIZE: 30
