@@ -1,5 +1,5 @@
 # parameters
-DATASET: 'raindrops' #'celebahq'  # 'tmnist', 'dtd', 'places2', 'celeba', 'imagenet', 'cityscapes'
+DATASET: 'GOPR47' #'celebahq'  # 'tmnist', 'dtd', 'places2', 'celeba', 'imagenet', 'cityscapes'
 RANDOM_CROP: True
 VAL: False
 LOG_DIR: full_model_raindrops_256
@@ -53,9 +53,9 @@ DATA_FLIST:
     'data/imagenet/static_view.flist',
   ]
   # raindrops
-  raindrops: [
-    'data/raindrops/train_shuffled.flist',
-    'data/raindrops/validation_shuffled.flist',
+  GOPR47: [
+    'data_flist/GOPR47/train_shuffled.flist',
+    'data_flist/GOPR47/validation_shuffled.flist',
   ]
 
 STATIC_VIEW_SIZE: 30
