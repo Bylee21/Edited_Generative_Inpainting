@@ -9,6 +9,7 @@ from inpaint_model import InpaintCAModel
 
 # go through all files in the folder
 import os
+import datetime
 
 
 parser = argparse.ArgumentParser()
@@ -29,7 +30,7 @@ parser.add_argument('--output_dir', default='', type=str,
                     help='The directory of output images.')    
 
 ## add more options                    
-parser.add_argument('--test_dir', default='test_dir', type=str,
+parser.add_argument('--test_dir', default='test_dir/GOPR47', type=str,
                     help='The directory of test images and masks.')   
 
 
@@ -57,7 +58,7 @@ if __name__ == "__main__":
     # prepare folder path
     input_folder = args.test_dir + "/input"
     mask_folder = args.test_dir + "/mask"
-    output_folder = args.test_dir + "/output"
+    output_folder = args.test_dir + "/output_" + args.checkpoint_dir.split("/")[1] + "_" +datetime.datetime.now().strftime("%Y%m%d%H%M%S")
 
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
@@ -82,7 +83,7 @@ if __name__ == "__main__":
         assert image.shape == mask.shape
 
         h, w, _ = image.shape
-        grid = 8
+        grid = 1
         image = image[:h//grid*grid, :w//grid*grid, :]
         mask = mask[:h//grid*grid, :w//grid*grid, :]
         print('Shape of image: {}'.format(image.shape))
