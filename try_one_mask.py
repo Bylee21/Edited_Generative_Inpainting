@@ -19,7 +19,7 @@ parser.add_argument('--mask', default='examples/places2/wooden_mask.png', type=s
                     help='The filename of mask, value 255 indicates mask.')
 parser.add_argument('--output', default='examples/output.png', type=str,
                     help='Where to write output.')
-parser.add_argument('--checkpoint_dir', default='model_logs/model_3000', type=str,
+parser.add_argument('--checkpoint_dir', default='model_logs/release_places2_256', type=str,
                     help='The directory of tensorflow checkpoint.')
 ## add more options                    
 parser.add_argument('--image_dir', default='', type=str,
@@ -76,9 +76,9 @@ if __name__ == "__main__":
         sess = tf.Session(config=sess_config)
         
         base_file_name = os.path.basename(file_inter)
-        print(input_folder + "/" + base_file_name)
+
         image = cv2.imread(input_folder + "/" + base_file_name)
-        mask = cv2.imread(mask_folder + "/" + base_file_name)
+        mask = cv2.imread(mask_folder + "/" + "mask.jpg")
 
         assert image.shape == mask.shape
 
