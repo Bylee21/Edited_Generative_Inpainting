@@ -41,7 +41,9 @@ if __name__ == "__main__":
     input_folder = args.test_dir + "/input"
     mask_folder = args.test_dir + "/mask"
     output_folder = args.test_dir + "/output_" + args.checkpoint_dir.split("/")[1] + "_" +datetime.datetime.now().strftime("%Y%m%d%H%M%S")
-
+    
+    if not os.path.exists(output_folder):
+        os.makedirs(output_folder)
     #####################################
     sess_config = tf.ConfigProto()                                                                                                                                                                                                            
     sess_config.gpu_options.allow_growth = True                                                                                                                                                                                               
