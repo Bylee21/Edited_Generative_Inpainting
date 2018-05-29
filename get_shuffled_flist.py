@@ -18,29 +18,32 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
-    # get the list of directories
-    dirs = os.listdir(args.folder_path)
-    dirs_name_list = []
+    # get the list of directories and separate them into 2 type: training and validation
+    training_dirs = os.listdir(args.folder_path + "/training")
+    validation_dirs = os.listdir(args.folder_path + "/validation")
 
     # make 2 lists to save file paths
     training_file_names = []
     validation_file_names = []
 
-    # print all directory names
-    for dir_item in dirs:
-        # modify to full path -> directory
-        dir_item = args.folder_path + "/" + dir_item
-        # print(dir_item)
-
-        training_folder = os.listdir(dir_item + "/training")
+    # append all files into 2 lists
+    for training_dir in training_dirs:
+        # append each file into the list file names
+        training_folder = os.listdir(args.folder_path + "/training" + "/" + training_dir)
         for training_item in training_folder:
-            training_item = dir_item + "/training" + "/" + training_item
+            # modify to full path -> directory
+            training_item = args.folder_path + "/training" + "/" + training_dir + "/" + training_item
             training_file_names.append(training_item)
 
-        validation_folder = os.listdir(dir_item + "/validation")
-        for validation_item in training_folder:
-            validation_item = dir_item + "/validation" + "/" + validation_item
+    # append all files into 2 lists
+    for validation_dir in validation_dirs:
+        # append each file into the list file names
+        validation_folder = os.listdir(args.folder_path + "/validation" + "/" + validation_dir)
+        for validation_item in validation_folder:
+            # modify to full path -> directory
+            validation_item = args.folder_path + "/validation" + "/" + validation_dir + "/" + validation_item
             validation_file_names.append(validation_item)
+
     # print all file paths
     for i in training_file_names:
         print(i)

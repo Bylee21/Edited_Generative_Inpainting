@@ -2,7 +2,112 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a64f7d2-5adb-4f79-b8d8-cb0b80d7507e" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0213.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0214.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0215.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0216.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0217.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0218.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0219.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0220.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0221.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0222.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0223.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0224.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0225.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0226.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0227.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0228.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0229.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0230.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0231.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0232.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0233.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0234.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0235.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0236.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0237.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0238.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0239.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0240.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0241.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0242.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0243.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0244.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0245.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0246.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0247.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0248.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0249.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0250.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0251.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0252.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0253.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0254.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0255.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0256.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0257.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0258.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0259.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0260.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0261.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0262.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0263.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0264.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0265.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0266.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0267.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0268.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0269.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0270.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0271.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0272.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0273.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0274.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0275.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0276.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0277.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0278.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0279.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0280.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0281.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0282.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0283.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0284.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0285.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0286.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0287.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0288.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0289.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0290.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0291.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0292.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0293.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0294.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0295.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0296.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0297.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0298.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0299.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0300.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0301.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0302.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0303.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0304.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0305.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0306.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0307.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0308.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0309.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0310.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0311.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0312.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0313.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0314.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0315.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/training_data/GOPR47/training/raindrop0316.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/get_shuffled_flist.py" afterPath="$PROJECT_DIR$/get_shuffled_flist.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,7 +118,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Edited_Generative_Inpainting$get_suffled_flist.coverage" NAME="get_suffled_flist Coverage Results" MODIFIED="1523324599717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Edited_Generative_Inpainting$get_shuffled_flist.coverage" NAME="get_shuffled_flist Coverage Results" MODIFIED="1523409519770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Edited_Generative_Inpainting$get_shuffled_flist.coverage" NAME="get_shuffled_flist Coverage Results" MODIFIED="1524703900390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Edited_Generative_Inpainting$testsss.coverage" NAME="testsss Coverage Results" MODIFIED="1523409548294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
@@ -30,11 +135,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="get_shuffled_flist.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="get_shuffled_flist.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/get_shuffled_flist.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="918">
-              <caret line="53" column="36" lean-forward="false" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
+            <state relative-caret-position="216">
+              <caret line="12" column="48" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
               <folding>
                 <element signature="e#19#34#0" expanded="true" />
               </folding>
@@ -42,7 +147,39 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name="random.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/random.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13122">
+              <caret line="735" column="0" lean-forward="false" selection-start-line="735" selection-start-column="0" selection-end-line="735" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="train_shuffled.flist" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data_flist/train_shuffled.flist">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="48" lean-forward="false" selection-start-line="1" selection-start-column="48" selection-end-line="1" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_graph.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_graph.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1476">
+              <caret line="92" column="76" lean-forward="false" selection-start-line="92" selection-start-column="76" selection-end-line="92" selection-end-column="76" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -80,8 +217,8 @@
             <state relative-caret-position="468">
               <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
               <folding>
-                <marker date="1523410387360" expanded="true" signature="184:185" ph="" />
-                <marker date="1523410387360" expanded="true" signature="837:838" ph="10" />
+                <marker date="1523935833476" expanded="true" signature="22:23" ph="GOPR47" />
+                <marker date="1523935833476" expanded="true" signature="1775:1802" ph="data_flis…fled.flist" />
               </folding>
             </state>
           </provider>
@@ -92,16 +229,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
               <caret line="8" column="46" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="validation_shuffledd.flist" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data_flist/GOPR47/validation_shuffledd.flist">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="46" lean-forward="false" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -149,10 +276,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="341" />
-    <option name="y" value="235" />
-    <option name="width" value="937" />
-    <option name="height" value="1056" />
+    <option name="x" value="468" />
+    <option name="y" value="159" />
+    <option name="width" value="943" />
+    <option name="height" value="1087" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -172,6 +299,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -193,27 +321,37 @@
               <item name="Edited_Generative_Inpainting" type="b2602c69:ProjectViewProjectNode" />
               <item name="Edited_Generative_Inpainting" type="462c0819:PsiDirectoryNode" />
               <item name="training_data" type="462c0819:PsiDirectoryNode" />
-              <item name="GOPR0039" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Edited_Generative_Inpainting" type="b2602c69:ProjectViewProjectNode" />
               <item name="Edited_Generative_Inpainting" type="462c0819:PsiDirectoryNode" />
               <item name="training_data" type="462c0819:PsiDirectoryNode" />
-              <item name="GOPR47" type="462c0819:PsiDirectoryNode" />
+              <item name="validation" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../poissonblending" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/get_shuffled_flist.py" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\[PROJECTS]\Edited_Generative_Inpainting\training_data\validation" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\[PROJECTS]\Edited_Generative_Inpainting\training_data\training\GOPR47" />
+      <recent name="D:\[PROJECTS]\Edited_Generative_Inpainting\training_data\training\GOPR0039" />
+      <recent name="D:\[PROJECTS]\Edited_Generative_Inpainting\training_data\training" />
+      <recent name="D:\[PROJECTS]\Edited_Generative_Inpainting\training_data" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -227,7 +365,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.testsss">
+  <component name="RunManager" selected="Python.get_shuffled_flist">
     <configuration name="get_shuffled_flist" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -289,8 +427,8 @@
     </list>
     <recent_temporary>
       <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.testsss" />
-        <item index="1" class="java.lang.String" itemvalue="Python.get_shuffled_flist" />
+        <item index="0" class="java.lang.String" itemvalue="Python.get_shuffled_flist" />
+        <item index="1" class="java.lang.String" itemvalue="Python.testsss" />
         <item index="2" class="java.lang.String" itemvalue="Python.get_suffled_flist" />
       </list>
     </recent_temporary>
@@ -323,16 +461,16 @@
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29348987" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29348987" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34364995" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.089647815" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2596472" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11080485" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3991462" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -351,11 +489,118 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/get_shuffled_flist.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/data_flist/GOPR47/train_shuffled.flist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="46" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_shuffled_flist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="48" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+          <folding>
+            <element signature="e#19#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="23" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_shuffled_flist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="53" column="36" lean-forward="false" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
+          <folding>
+            <element signature="e#19#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_shuffled_old.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="39" lean-forward="false" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+          <folding>
+            <element signature="e#19#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inpaint_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inpaint.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+          <folding>
+            <marker date="1523935833476" expanded="true" signature="22:23" ph="GOPR47" />
+            <marker date="1523935833476" expanded="true" signature="1775:1802" ph="data_flis…fled.flist" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_flist/GOPR47/train_shuffled.flist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="46" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_flist/GOPR47/validation_shuffledd.flist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="46" lean-forward="false" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1476">
+          <caret line="92" column="76" lean-forward="false" selection-start-line="92" selection-start-column="76" selection-end-line="92" selection-end-column="76" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -399,8 +644,8 @@
         <state relative-caret-position="468">
           <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
           <folding>
-            <marker date="1523410387360" expanded="true" signature="184:185" ph="" />
-            <marker date="1523410387360" expanded="true" signature="837:838" ph="10" />
+            <marker date="1523935833476" expanded="true" signature="22:23" ph="GOPR47" />
+            <marker date="1523935833476" expanded="true" signature="1775:1802" ph="data_flis…fled.flist" />
           </folding>
         </state>
       </provider>
@@ -417,7 +662,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="11" column="46" lean-forward="false" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -472,8 +716,8 @@
         <state relative-caret-position="468">
           <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
           <folding>
-            <marker date="1523410387360" expanded="true" signature="184:185" ph="" />
-            <marker date="1523410387360" expanded="true" signature="837:838" ph="10" />
+            <marker date="1523935833476" expanded="true" signature="22:23" ph="GOPR47" />
+            <marker date="1523935833476" expanded="true" signature="1775:1802" ph="data_flis…fled.flist" />
           </folding>
         </state>
       </provider>
@@ -490,7 +734,78 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="11" column="46" lean-forward="false" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="23" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_shuffled_flist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="53" column="36" lean-forward="false" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
+          <folding>
+            <element signature="e#19#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_shuffled_old.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="39" lean-forward="false" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+          <folding>
+            <element signature="e#19#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inpaint_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inpaint.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+          <folding>
+            <marker date="1523935833476" expanded="true" signature="22:23" ph="GOPR47" />
+            <marker date="1523935833476" expanded="true" signature="1775:1802" ph="data_flis…fled.flist" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_flist/GOPR47/train_shuffled.flist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="46" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_flist/GOPR47/validation_shuffledd.flist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="46" lean-forward="false" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
         </state>
       </provider>
     </entry>
@@ -533,7 +848,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="11" column="46" lean-forward="false" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -575,13 +889,12 @@
         <state relative-caret-position="468">
           <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
           <folding>
-            <marker date="1523410387360" expanded="true" signature="184:185" ph="" />
-            <marker date="1523410387360" expanded="true" signature="837:838" ph="10" />
+            <marker date="1523935833476" expanded="true" signature="22:23" ph="GOPR47" />
+            <marker date="1523935833476" expanded="true" signature="1775:1802" ph="data_flis…fled.flist" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data_flist/train_shuffled.flist" />
     <entry file="file://$PROJECT_DIR$/data_flist/validation_shuffled.flist" />
     <entry file="file://$PROJECT_DIR$/get_shuffled_old.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -593,21 +906,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/get_shuffled_flist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="53" column="36" lean-forward="false" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
-          <folding>
-            <element signature="e#19#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1476">
+          <caret line="92" column="76" lean-forward="false" selection-start-line="92" selection-start-column="76" selection-end-line="92" selection-end-column="76" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_flist/train_shuffled.flist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="48" lean-forward="false" selection-start-line="1" selection-start-column="48" selection-end-line="1" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13122">
+          <caret line="735" column="0" lean-forward="false" selection-start-line="735" selection-start-column="0" selection-end-line="735" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_shuffled_flist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="48" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+          <folding>
+            <element signature="e#19#34#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
