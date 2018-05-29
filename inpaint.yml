@@ -3,7 +3,8 @@ DATASET: 'raindrops' #'celebahq'  # 'tmnist', 'dtd', 'places2', 'celeba', 'image
 RANDOM_CROP: True
 VAL: False
 LOG_DIR: full_model_raindrop_256
-MODEL_RESTORE: 'model_1600' #'release_places2_256'  # '20180115220926508503_jyugpu0_places2_NORMAL_wgan_gp_full_model'
+# MODEL_RESTORE: 'model_20000_white_scratch' # 'model_40000' # 'release_places2_256'  # '20180115220926508503_jyugpu0_places2_NORMAL_wgan_gp_full_model'
+MODEL_RESTORE: 'model_40000' # 'model_40000' # 'release_places2_256'  # '20180115220926508503_jyugpu0_places2_NORMAL_wgan_gp_full_model'
 
 GAN: 'wgan_gp'  # 'dcgan', 'lsgan', 'wgan_gp', 'one_wgan_gp'
 PRETRAIN_COARSE_NETWORK: False
@@ -20,13 +21,13 @@ PADDING: 'SAME'
 # training
 NUM_GPUS: 1
 GPU_ID: -1  # -1 indicate select any available one, otherwise select gpu ID, e.g. [0,1,3]
-TRAIN_SPE: 2000
-MAX_ITERS: 30000
+TRAIN_SPE: 20000
+MAX_ITERS: 300000
 VIZ_MAX_OUT: 10
 GRADS_SUMMARY: False
 GRADIENT_CLIP: False
 GRADIENT_CLIP_VALUE: 0.1
-VAL_PSTEPS: 100
+VAL_PSTEPS: 1000
 
 # data
 DATA_FLIST:
